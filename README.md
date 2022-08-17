@@ -11,3 +11,5 @@
 <ul>☑ API</ul>
 <ul>☑ Graficos com a biblioteca Matplotlib</ul>
 <ul>☑ Automação com pyautogui</ul>
+
+🌆
