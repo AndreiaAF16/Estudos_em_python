@@ -5,6 +5,9 @@
 </br>
 <h2>Aulas de Python</h2></br>
 
-<ul>☑ Aula 06 - Tipos Primitivos e Saída de Dados</ul>
-<ul>☑ Aula 07 - Operadores Aritmético</ul>
-<ul>☑ Aula 08 - Utilizando Módulos</ul>
+<ul>☑ Exercícios de python</ul>
+<ul>☑ Dicionarios</ul>
+<ul>☑ Listas</ul>
+<ul>☑ API</ul>
+<ul>☑ Graficos com a biblioteca Matplotlib</ul>
+<ul>☑ Automação com pyautogui</ul>
